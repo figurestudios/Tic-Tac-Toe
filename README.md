@@ -7,6 +7,15 @@ https://uppy.hns.siasky.net
 # Source
 https://siasky.net/CAB23ckBPE4J34cbJHMRehccJGF612FJwgnwu4LvDqKhlw
 
+# Features
+Networking through registry
+
+MySky Login
+
+ContentRecord leaderboards
+
+Unity Game Logic
+
 # License
 MIT
 
